@@ -1,4 +1,7 @@
 # Library Management System
+<img width="1911" height="1073" alt="Screenshot 2026-07-10 113734" src="https://github.com/user-attachments/assets/0d0e4dfd-324b-4418-bedc-7e2fd11f1967" />
+![Uploading Screenshot 2026-07-10 113734.png…]()
+
 
 A web application built with **Node.js, Express, and MongoDB** on the backend, paired with a dynamic vanilla JavaScript frontend interface. This system provides user authentication through **JSON Web Tokens (JWT)** and a complete **CRUD (Create, Read, Update, Delete)** engine for cataloging books securely.
 
